@@ -21,6 +21,7 @@ Create a config file named `config.json`
 ```json
 {
   "token": "<refresh_token>",
+  "threads": 5,
   "location_path": "/",
   "start_directory": "/",
   "diff_seconds": 300,
